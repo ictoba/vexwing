@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vexwing", "Vexwing\Vexwing.csproj", "{991E9B34-F959-4BB9-A7EB-C6DC8D7E35AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vexwing.SampleApp", "Vexwing.SampleApp\Vexwing.SampleApp.csproj", "{086AFC11-6537-4367-8CF2-F2516E297282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991E9B34-F959-4BB9-A7EB-C6DC8D7E35AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991E9B34-F959-4BB9-A7EB-C6DC8D7E35AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991E9B34-F959-4BB9-A7EB-C6DC8D7E35AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991E9B34-F959-4BB9-A7EB-C6DC8D7E35AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086AFC11-6537-4367-8CF2-F2516E297282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086AFC11-6537-4367-8CF2-F2516E297282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086AFC11-6537-4367-8CF2-F2516E297282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086AFC11-6537-4367-8CF2-F2516E297282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E655FB96-9AEB-4BD1-9FEE-D1B7B225B886}
+	EndGlobalSection
+EndGlobal
